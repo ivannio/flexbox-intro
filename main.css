@@ -28,4 +28,5 @@ nav {
 .puppy-container img {
     width: 300px;
     margin: 2em;
+    border-radius: 50%;
 }
