@@ -17,3 +17,15 @@ nav {
 .link-container a {
     margin: 2em;
 }
+
+.puppy-container {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.puppy-container img {
+    width: 300px;
+    margin: 2em;
+}
